@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "3456072ced9fbffb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b502c8291516b05f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf84460010ac4b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework Arduino kit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homework Arduino kit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9c49bcaeb172b2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "31d9389282aac9d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c531b54efed43e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "694503c1d75333e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5b2f2f9afcbc6209",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b45116ec5b4be384",
+    "type": "split",
+    "children": [
+      {
+        "id": "f818268ab152ffe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b1226f41e370365",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c2329c579739017a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d14236e438084d82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "61cdc3629cdcba2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cf84460010ac4b24",
+  "lastOpenFiles": [
+    "Flame sensor.jpg",
+    "Homework Arduino kit.md",
+    "lamborghini-3840x2160-12286.jpg",
+    "I2C Serial Adapter board module.jpg",
+    "RFID tag.jpg",
+    "Welcome.md",
+    "Infrared remote control.jpg",
+    "Untitled.md",
+    "Resistors 1k ohm.jpg",
+    "LEDs 1.png",
+    "Jumper wires (female-to-female) 2.jpeg",
+    "74HC595 Chip.jpg",
+    "Real-time Clock Module DS1302.jpeg",
+    "Microprocessor and Mircrocontroller.md",
+    "Untitled",
+    "Microprocessor and Microcontroller"
+  ]
+}
