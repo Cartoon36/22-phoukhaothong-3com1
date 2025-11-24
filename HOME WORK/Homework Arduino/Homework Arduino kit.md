@@ -1,7 +1,7 @@
 #### 1. ***🔌 Core Boards & Interfaces***
 #### I. **Arduino Uno Board**
 
-![](pic/arduino-board.jpg)
+![450x300](pic/arduino-board.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -15,7 +15,7 @@
 
 - **ຊື່ອຸປະກອນ:** Arduino Uno board
 - **ແຜນວາດ Pinout:
--![](pic/arduino-diagram.png)
+-![400x300](pic/arduino-diagram.png)
 
 - ***Digital Pins (0-13):** ໃຊ້ສຳລັບການປ້ອນຂໍ້ມູນ/ສົ່ງອອກແບບດິຈິຕອລ (ON/OFF). Pins 3, 5, 6, 9, 10, ແລະ 11 ຮອງຮັບ PWM (Pseudo-Analog). 
 - ***Analog Pins (A0-A5):** ໃຊ້ສຳລັບການອ່ານຄ່າອະນາລັອກ (ຕົວຢ່າງ: ຈາກເຊັນເຊີອຸນຫະພູມ). 
@@ -27,7 +27,7 @@
 
 ### **II.  Breadboards**
 
-![](pic/Breadboards.jpg)
+![400x300](pic/Breadboards.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -47,7 +47,7 @@
 
 #### -USB cable
 
-![](pic/cable-Usb.jpg)
+![350x350](pic/cable-Usb.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -59,7 +59,7 @@
 
 - **ແຜນວາດ Pinout:
 
-- ![](pic/usb-pinout.webp)
+- ![450x350](pic/usb-pinout.webp)
 
   **Pins:** VCC (5V), Data- (D-), Data+ (D+), Ground (GND). * **Etc...:**ໃຊ້ສຳລັບການອັບໂຫລດ sketch (ໂປຣແກຣມ) ໄປຫາ Arduino.
 
@@ -71,7 +71,7 @@
 
 ### - **Male-to-Male (M2M)**
 
-![](pic/jumper_wires_male_to_male.jpg)
+![350x350](pic/jumper_wires_male_to_male.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -94,7 +94,7 @@
 
 ### - **Male-to-Female (M2F)**
 
-![](pic/Jumper_wires_male_to_female.jpg)
+![350x350](pic/Jumper_wires_male_to_female.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -114,7 +114,7 @@
 
 ### - **Female-to-Female (F2F)**
 
-![](pic/Jumper_wires_female_to_female.jpg)
+![350x350](pic/Jumper_wires_female_to_female.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -134,7 +134,7 @@
 
 #### - 9V Battery Connector
 
-![](pic/9V_Battery_Connector.jpg)
+![350x350](pic/9V_Battery_Connector.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -155,7 +155,7 @@
 ## 💡 **Basic** **Components**
 ## - LEDs (Red: 5, Yellow: 5, Blue: 5, RGB: 1)
 
-![](pic/L_E_D_s.png)
+![350x350](pic/L_E_D_s.png)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -174,7 +174,7 @@
 
 #### - RGB Module
 
-![](pic/RGB_module.jpg)
+![350x350](pic/RGB_module.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -194,9 +194,9 @@
 
 #### - Resistor 220, 1k, 10k ohm
 
-![](pic/Resistors_220_ohm.jpg)
-![](pic/Resistors_1_k_ohm.jpg)
-![](pic/Resistors_1_0_k_ohm.jpg)
+![350x350](pic/Resistors_220_ohm.jpg)
+![350x350](pic/Resistors_1_k_ohm.jpg)
+![350x350](pic/Resistors_1_0_k_ohm.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -217,7 +217,7 @@
 
 #### -Push Buttons (x4 with Lids )
 
-![](pic/Push_Buttons_x_4_with_Lids.jpg)
+![350x350](pic/Push_Buttons_x_4_with_Lids.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -237,7 +237,7 @@
 
 #### - Potentiometer (5kΩ)
 
-![](pic/Potentiometer_5.jpg)
+![350](pic/Potentiometer_5.jpg)
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
 - **Potentiometer** ແມ່ນຕົວຕ້ານທານທີ່ປັບໄດ້ສາມຂາ, ໂດຍປົກກະຕິແລ້ວແມ່ນ 5kΩ. ມັນຖືກໃຊ້ເພື່ອຄວບຄຸມຄ່າຄວາມຕ້ານທານແບບປັບໄດ້ ຫຼື ເປັນຕົວແບ່ງໂວນທີ່ປັບໄດ້
@@ -257,7 +257,7 @@
 
 #### - Active Buzzer
 
-![](pic/Active_Buzzer.jpeg)
+![350x350](pic/Active_Buzzer.jpeg)
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
 - **Active Buzzer** ແມ່ນລຳໂພງ piezoelectric ຂະໜາດນ້ອຍທີ່ມີວົງຈອນກຳເນີດສຽງ (oscillator) ໃນຕົວ.
@@ -276,7 +276,7 @@
 
 ## - Passive Buzzer
 
-![](pic/Passive_Buzzer.jpg)
+![350x350](pic/Passive_Buzzer.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -298,7 +298,7 @@
 
 ## - 16x2 LCD display
 
-![](pic/16x2_LCD_display.jpg)
+![350x250](pic/16x2_LCD_display.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -319,7 +319,7 @@
 
 ## -  I2C Serial Adapter board module
 
-![](pic/I_2_C_Serial_Adapter_board_module.jpg)
+![350x350](pic/I_2_C_Serial_Adapter_board_module.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -339,7 +339,7 @@
 
 ##  - 7-segment display (Common Cathode +)
 
-![](pic/7_segment_display_Common_Cathode.jpg)
+![350x350](pic/7_segment_display_Common_Cathode.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -359,7 +359,7 @@
 
 ## 4-Digit 7-Segment Display
 
-![](pic/4_Digit_7_Segment_Display.png)
+![350x350](pic/4_Digit_7_Segment_Display.png)
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
 - **4-Digit 7-Segment Display** ແມ່ນການລວມຂອງ 7-segment display ສີ່ອັນເຂົ້າກັນເພື່ອສະແດງຕົວເລກສີ່ຕົວ.
@@ -378,7 +378,7 @@
 
 ## 8x8 Dot Matrix display
 
-![](pic/8x8_Dot_Matrix_display.jpeg)
+![350x350](pic/8x8_Dot_Matrix_display.jpeg)
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
 - ***8x8 Dot Matrix Display** ແມ່ນຈໍສະແດງຜົນທີ່ປະກອບດ້ວຍໄຟ LED 64 ດອກ ທີ່ຈັດຢູ່ໃນຮູບແບບຕາຂ່າຍ 8 ແຖວ x 8 ຖັນ.
@@ -400,7 +400,7 @@
 ### - Temperature and humidity sensor (DHT11)
 
 
-![](pic/Temperature_and_humidity_sensor.jpg)
+![350x350](pic/Temperature_and_humidity_sensor.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -419,7 +419,7 @@
 
 ### - LM35 Temperature Sensor
 
-![](pic/LM35_Temperature_Sensor.jpg)
+![350x350](pic/LM35_Temperature_Sensor.jpg)
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
 - ***LM35** ແມ່ນເຊັນເຊີອຸນຫະພູມທີ່ສົ່ງອອກ **ສັນຍານໂວນອະນາລັອກ (Analog Voltage)** ທີ່ເປັນເສັ້ນຊື່ຕາມອຸນຫະພູມໃນອົງສາ Celsius.
@@ -436,7 +436,7 @@
 
 ### - Tilt sensor (x2)
 
-![](pic/Tilt_sensor.jpeg)
+![350x350](pic/Tilt_sensor.jpeg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -454,7 +454,7 @@
 
 ### - Photoresistor (LDRs x3)
 
-![](pic/Photoresistor_LDRs_x3.jpg)
+![350x350](pic/Photoresistor_LDRs_x3.jpg)
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
 - **Photoresistor (Light Dependent Resistor - LDR)** ແມ່ນ Resistor ທີ່ຄ່າຄວາມຕ້ານທານປ່ຽນແປງໄປຕາມຄວາມເຂັ້ມຂອງແສງທີ່ຕົກໃສ່ມັນ.
@@ -471,7 +471,7 @@
 
 ### - PIR sensor
 
-![](pic/PIR_sensor.jpg)
+![350x350](pic/PIR_sensor.jpg)
 
 ### 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -489,7 +489,7 @@
 
 ### - Ultrasonic module
 
-![](pic/Ultrasonic_module.jpeg)
+![350x250](pic/Ultrasonic_module.jpeg)
 ### 1. ຄວາມໝາຍອຸປະກອນ
 
 - ***Ultrasonic Module (HC-SR04)** ແມ່ນເຊັນເຊີໄລຍະຫ່າງທີ່ໃຊ້ຄື້ນສຽງຄວາມຖີ່ສູງ (ultrasound) ເພື່ອວັດແທກໄລຍະຫ່າງເຖິງວັດຖຸ.
@@ -506,7 +506,7 @@
 
 ### - Sound sensor
 
-![](pic/Sound_sensor.jpeg)
+![350x350](pic/Sound_sensor.jpeg)
 
 ### 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -524,7 +524,7 @@
 
 ### - Water sensor
 
-![](pic/Water_sensor.jpeg)
+![350x350](pic/Water_sensor.jpeg)
 
 ### 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -542,7 +542,7 @@
 
 ### - Flame sensor
 
-![](pic/Flame_sensor.jpg)
+![350x350](pic/Flame_sensor.jpg)
 
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
@@ -561,7 +561,7 @@
 
 ### - RFID module
 
-![](pic/RFID_module.jpg)
+![350x350](pic/RFID_module.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -579,7 +579,7 @@
 
 ### - RFID tag
 
-![](pic/RFID_tag.jpg)
+![350x350](pic/RFID_tag.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -596,7 +596,7 @@
 
 ### - Infrared receiver
 
-![](pic/Infrared_receiver.jpeg)
+![350x350](pic/Infrared_receiver.jpeg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -615,7 +615,7 @@
 
 ### - Infrared remote control
 
-![](pic/Infrared_remote_control.jpg)
+![350x350](pic/Infrared_remote_control.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -632,7 +632,7 @@
 
 ### - Joystick module
 
-![](pic/Joystick_module.jpeg)
+![350x350](pic/Joystick_module.jpeg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -649,7 +649,7 @@
 
 ###  - 4x4 Matrix Keyboard Module
 
-![](pic/4x4_Matrix_Keyboard_Module.jpeg)
+![350x350](pic/4x4_Matrix_Keyboard_Module.jpeg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -666,7 +666,7 @@
 
 ### - Relay module
 
-![](pic/Relay_module.jpeg)
+![350x350](pic/Relay_module.jpeg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -685,7 +685,7 @@
 
 ### - Servo motor
 
-![](pic/Servo_motor.jpg)
+![350x250](pic/Servo_motor.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -702,7 +702,7 @@
 
 ### - Stepper motor
 
-![](pic/Stepper_motor.jpeg)
+![350x250](pic/Stepper_motor.jpeg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -719,7 +719,7 @@
 
 ### - Stepper motor driver board
 
-![](pic/Stepper_motor_driver_board.jpg)
+![350x350](pic/Stepper_motor_driver_board.jpg)
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
 - **Stepper Motor Driver Board (ເຊັ່ນ: ULN2003 Driver)** ແມ່ນແຜງວົງຈອນທີ່ຈຳເປັນສຳລັບການຄວບຄຸມ Stepper Motor.
@@ -738,7 +738,7 @@
 
 ### - Real-time Clock Module DS1302
 
-![](pic/Real_time_Clock_Module_DS1302.jpeg)
+![350x250](pic/Real_time_Clock_Module_DS1302.jpeg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
@@ -755,7 +755,7 @@
 
 ###  - 74HC595 Chip
 
-![](pic/74HC595_Chip.jpg)
+![350x250](pic/74HC595_Chip.jpg)
 
 ## 1. ຄວາມໝາຍອຸປະກອນ
 
